@@ -1,0 +1,5 @@
+zombieland-v1 - Primeira versão, sem o joystick.
+
+zombieland-v2 - Segunda versão, com o joystick e com 2 players, porém sem otimizações e sem o menu personalizado.
+
+zombieland-v3-final - Terceira versão, com joystick e 1 player, otimizada.

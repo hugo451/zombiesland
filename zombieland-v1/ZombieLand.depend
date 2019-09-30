@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1568412550 source:c:\users\casa\desktop\lgs_coisas\aprendendoc\zombieland\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1568410806 source:c:\users\casa\desktop\lgs_coisas\aprendendoc\zombieland\menu.c
+	"Menu.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1568410802 c:\users\casa\desktop\lgs_coisas\aprendendoc\zombieland\menu.h
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1569774318 source:c:\users\casa\documents\codigos_c_c++\allegro5\zombiesland_data\zombiesland-master\zombiesland-master\menu.c
+	"Menu.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+
+1569774335 c:\users\casa\documents\codigos_c_c++\allegro5\zombiesland_data\zombiesland-master\zombiesland-master\menu.h
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1569781548 source:c:\users\casa\documents\codigos_c_c++\allegro5\zombiesland_data\zombiesland-master\zombiesland-master\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1569790998 source:c:\users\casa\desktop\zombiesland-master-20190929t190024z-001\zombiesland-master\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1569767990 c:\users\casa\desktop\zombiesland-master-20190929t190024z-001\zombiesland-master\menu.h
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1569789826 source:c:\users\casa\desktop\zombiesland-master-20190929t190024z-001\zombiesland-master\menu.c
+	"Menu.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+
+1569809036 source:c:\users\casa\desktop\zombieland_comteladecreditosletrasvermelhas-20190929t225615z-001\zombieland_comteladecreditosletrasvermelhas\zombiesland-master\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1569777908 c:\users\casa\desktop\zombieland_comteladecreditosletrasvermelhas-20190929t225615z-001\zombieland_comteladecreditosletrasvermelhas\zombiesland-master\menu.h
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1569777906 source:c:\users\casa\desktop\zombieland_comteladecreditosletrasvermelhas-20190929t225615z-001\zombieland_comteladecreditosletrasvermelhas\zombiesland-master\menu.c
+	"Menu.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+
+1569809885 source:c:\users\casa\desktop\zombieland_definitivo\zombieland_comteladecreditosletrasvermelhas\zombiesland-master\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1569777908 c:\users\casa\desktop\zombieland_definitivo\zombieland_comteladecreditosletrasvermelhas\zombiesland-master\menu.h
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1569777906 source:c:\users\casa\desktop\zombieland_definitivo\zombieland_comteladecreditosletrasvermelhas\zombiesland-master\menu.c
+	"Menu.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+
