@@ -75,7 +75,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Clique em Add e navegue até a pasta em que o Allegro está (geralmente C:\Program Files (x86)\CodeBlocks\MinGW\allegro);
 
-* Clique em lib;
+* Entre na pasta lib;
 
 * Selecione o arquivo liballegro-5.X.X-monolith-mt.a (X.X vai depender da versão que foi instalada);
 
