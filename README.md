@@ -53,17 +53,17 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Na nova janela aberta, vá em Search directories, depois em Compiler:
 
-<img src="img/guide2.png>
+<img src="img/guide2.png">
 
 * Clique em Add;
 
 * Cole o caminho que você copiou e confirme, como mostra a imagem:
 
-<img src="img/guide3.png>
+<img src="img/guide3.png">
 
 * Feito isso, clique em Linker:
 
-<img src="img/guide4.png>
+<img src="img/guide4.png">
 
 * Clique em Add e cole novamente o endereço da pasta allegro/include, como foi feito antes;
 
@@ -71,7 +71,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Depois disso, vá em Linker Settings (opção antes de Search directories):
 
-<img src="img/guide5.png>
+<img src="img/guide5.png">
 
 * Clique em Add e navegue até a pasta em que o Allegro está (geralmente C:\Program Files (x86)\CodeBlocks\MinGW\allegro);
 
@@ -79,7 +79,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Selecione o arquivo liballegro-5.X.X-monolith-mt.a (X.X vai depender da versão que foi instalada);
 
-<img src="img/guide6.png>
+<img src="img/guide6.png">
 
 * Clique em OK.
 
@@ -90,5 +90,3 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 <p>Também é possível ir no Code Blocks, ir em File > Open e abrir o arquivo .cbp do nosso projeto, que é ZombieLand.cbp. Feito isso é só compilar o código e jogar!</p>
 
 <p>Agradecemos a sua atenção e desejamos que se divirta! </p>
-
-
