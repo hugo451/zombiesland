@@ -49,21 +49,21 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Abra o Code Blocks e clique em Settings, depois em Compiler, como mostra a imagem:
 
-<center><img src="img/guide1.png"></center>
+:<img src="img/guide1.png">:
 
 * Na nova janela aberta, vá em Search directories, depois em Compiler:
 
-<center><img src="img/guide2.png"></center>
+:<img src="img/guide2.png">:
 
 * Clique em Add;
 
 * Cole o caminho que você copiou e confirme, como mostra a imagem:
 
-<center><img src="img/guide3.png"></center>
+:<img src="img/guide3.png">:
 
 * Feito isso, clique em Linker:
 
-<center><img src="img/guide4.png"></center>
+:<img src="img/guide4.png">:
 
 * Clique em Add e cole novamente o endereço da pasta allegro/include, como foi feito antes;
 
@@ -71,7 +71,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Depois disso, vá em Linker Settings (opção antes de Search directories):
 
-<center><img src="img/guide5.png"></center>
+:<img src="img/guide5.png">:
 
 * Clique em Add e navegue até a pasta em que o Allegro está (geralmente C:\Program Files (x86)\CodeBlocks\MinGW\allegro);
 
@@ -79,7 +79,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Selecione o arquivo liballegro-5.X.X-monolith-mt.a (X.X vai depender da versão que foi instalada);
 
-<center><img src="img/guide6.png"></center>
+:<img src="img/guide6.png">:
 
 * Clique em OK.
 
