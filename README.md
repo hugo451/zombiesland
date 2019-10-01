@@ -37,6 +37,6 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Abra o Code Blocks e clique em Settings, depois em Compiler, como mostra a imagem:
 
-<img src="img/guide1.jpg" align="center">
+<img src="img/guide1.png" align="center">
 
 
