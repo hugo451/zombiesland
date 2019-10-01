@@ -87,7 +87,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 <p>Agora, para jogar, faça download das versões que se encontram nesse repositório e escolha com qual vai jogar. Recomendados a versão 3, que é a que se encontra com mais otimização e correção de <i>bugs</i>. Tendo escolhido a vesão, entre na pasta e execute o arquivo ".exe".</p>
 
-<p>Também é possível ir no Code Blocks, ir em File > Open e abrir o arquivo .cbp do nosso projeto, que é ZombieLand.cbp. Feito isso é só compilar o código e jogar!</p>
+<p>Outra forma de jogar é ir no Code Blocks, depois em File > Open e abrir o arquivo .cbp do nosso projeto (dentro da pasta), que é ZombieLand.cbp. Feito isso é só compilar o código e jogar!</p>
 
 <p>Agradecemos a sua atenção e desejamos que se divirta! </p>
 
