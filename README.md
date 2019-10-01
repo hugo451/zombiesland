@@ -39,7 +39,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 * Vá até a pasta do Code Blocks nos arquivos de programas (geralmente é o caminho C:\Program Files (x86)\CodeBlocks);
 
-* Clique sobre MinGW e cole a pasta que você copiou anteriormente;
+* Entre na pasta MinGW e cole a pasta que você copiou anteriormente;
 
 * Renomeie a pasta colada para "allegro" sem as aspas;
 
