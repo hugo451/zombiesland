@@ -85,7 +85,7 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 
 <p>Pronto, a biblioteca Allegro foi instalada.</p>
 
-<p>Agora, para jogar, faça download das versões que se encontram nesse repositório e escolha com qual vai jogar. Recomendados a versão 3, que é a que se encontra com mais otimização e correção de <i>bugs</i>. Tendo escolhido a vesão, entre na pasta e execute o arquivo ".exe".</p>
+<p>Agora, para jogar, faça download das versões que se encontram nesse repositório e escolha com qual vai jogar. Recomendados a versão 3, que é a que se encontra com mais otimização e correção de <i>bugs</i>. Tendo escolhido a versão, entre na pasta e execute o arquivo ".exe".</p>
 
 <p>Outra forma de jogar é ir no Code Blocks, depois em File > Open e abrir o arquivo .cbp do nosso projeto (dentro da pasta), que é ZombieLand.cbp. Feito isso é só compilar o código e jogar!</p>
 
