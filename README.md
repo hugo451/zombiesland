@@ -90,3 +90,9 @@ dominado por zumbis. Os zumbis estão vindo em sua direção e para continuar vi
 <p>Também é possível ir no Code Blocks, ir em File > Open e abrir o arquivo .cbp do nosso projeto, que é ZombieLand.cbp. Feito isso é só compilar o código e jogar!</p>
 
 <p>Agradecemos a sua atenção e desejamos que se divirta! </p>
+
+## Créditos e Referências
+
+* O guia para instalação da biblioteca Allegro foi adaptado <a href="https://aprendendoallegro.tk/allegro_install.pdf">daqui</a>;
+
+* Os sprites usados no jogo foram retirados <a href="https://www.kenney.nl/assets/platformer-characters">deste site</a>.
